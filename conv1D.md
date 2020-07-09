@@ -65,4 +65,4 @@ tf.nn.conv1d(
 
 ## 3 参考
 
-[^冬之恋的博文]: 这是[冬之恋的博客](https://blog.csdn.net/u013602059/article/details/104947737)，本文中的图片来自她的博客，特此感谢。
+1. [^冬之恋的博文]: 这是[冬之恋的博客](https://blog.csdn.net/u013602059/article/details/104947737)，本文中的图片来自她的博客，特此感谢。
