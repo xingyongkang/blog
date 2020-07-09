@@ -14,5 +14,9 @@ edited by hawk in July 1 2020.
 
 3. [Linux中的重定向和管道](./IORedirect.md)
 
+4. [一维卷积](./conv1D.md)
+
+5. 
+
    
 
